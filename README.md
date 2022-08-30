@@ -1,5 +1,4 @@
-# Linux-Autoupdate-Autoupgrade <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
-        <img src="https://img.shields.io/github/contributors/badges/shields" /></a>
+# Linux-Autoupdate-Autoupgrade ![coverage](https://img.shields.io/badge/coverage-80%25-yellowgreen)
 Linux Debian auto update and auto upgrade Bash script and add script to cronjob.
 
 ### TO DO LIST
