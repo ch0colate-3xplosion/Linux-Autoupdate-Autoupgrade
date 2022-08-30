@@ -4,4 +4,5 @@ Linux Debian auto update and auto upgrade Bash script. It will add this script t
 ### TO DO LIST
 
 - [x] Add this script to cronjob.
-- [ ] Make sure script is running as root and in root folder.
+- [x] Make sure script is running as root and in root folder.
+- [ ] Delete this script after reboot
